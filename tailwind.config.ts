@@ -10,6 +10,10 @@ const config = {
 	],
   prefix: "",
   theme: {
+    fontFamily: {
+      'sans': 'Poppins, sans-serif',
+      'mono': 'JetBrains Mono, monospace'
+    },
     container: {
       center: true,
       padding: "2rem",
